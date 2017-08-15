@@ -1,0 +1,17 @@
+html = """
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>RGB Colors</title>
+    </head>
+    <body>
+        <h1>RGB Colors</h1>
+        <ul>
+            <li>Red : #FF0000</li>
+            <li>Green : #00FF00</li>
+            <li>Blue : #0000FF</li>
+        </ul>
+    </body>
+</html>
+"""
